@@ -1,0 +1,504 @@
+{
+	"plants": [
+		{
+			"id": "1",
+			"plant_name": "Monstera Deliciosa",
+			"image_link": "https://cdn1.angusandceleste.com/wp-content/uploads/2019/04/09160136/Monstera-Angus-Celeste-Blog-768x768.jpg",
+			"description": "Monstera Deliciosa, also known as the Swiss Cheese Plant, is a popular houseplant with large, fenestrated leaves.",
+			"care_instructions": "Place the plant in bright, indirect light and water it when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Large",
+			"price": 25.99
+		},
+		{
+			"id": "2",
+			"plant_name": "Snake Plant",
+			"image_link": "https://www.denverplantdelivery.com/cdn/shop/products/medium-plant-snake-white-pot_800x_035b13cb-1914-4671-aecc-41c1fe7095f9_900x.jpg?v=1604982784",
+			"description": "Snake Plant, or Sansevieria, is a hardy plant with tall, upright leaves that are often variegated.",
+			"care_instructions": "Snake plants can tolerate low light conditions and prefer drier soil, so water sparingly.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 12.99
+		},
+		{
+			"id": "3",
+			"plant_name": "Philodendron Brasil",
+			"image_link": "https://images.squarespace-cdn.com/content/v1/602439176a124b22c753f248/1617390565664-UXRHTYSPWXZG1DKH79HM/severin-candrian-shAA_rxG2Yc-unsplash.jpg?format=1500w",
+			"description": "Philodendron Brasil is a trailing vine with heart-shaped leaves that have a vibrant green and yellow variegation.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Small",
+			"price": 8.99
+		},
+		{
+			"id": "4",
+			"plant_name": "Aloe Vera",
+			"image_link": "https://cdn.shopify.com/s/files/1/0273/3716/2865/products/aloe-vera-01_1000x.jpg?v=1646041471",
+			"description": "Aloe Vera is a succulent known for its medicinal properties and fleshy, gel-filled leaves.",
+			"care_instructions": "Place the plant in bright, indirect light and water it deeply but infrequently.",
+			"categories": ["House Plants", "Succulents"],
+			"size": "Small",
+			"price": 6.99
+		},
+		{
+			"id": "5",
+			"plant_name": "Peace Lily",
+			"image_link": "https://www.leafenvy.co.uk/cdn/shop/files/PeaceLilyLarge90cm.jpg?v=1682703146&width=1280",
+			"description": "Peace Lily, or Spathiphyllum, is a popular flowering plant with glossy green leaves and elegant white blooms.",
+			"care_instructions": "Keep the plant in indirect light and water it when the soil surface begins to dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 14.99
+		},
+		{
+			"id": "6",
+			"plant_name": "Bonsai Tree",
+			"image_link": "https://asset1.cxnmarksandspencer.com/is/image/mands/PL_05_T27_3036G_J0_X_EC_0?$PDP_INT_IMAGE_DESKTOP_DOUBLE$",
+			"description": "Bonsai Tree is a miniature tree that is meticulously pruned and trained to create a stunning, artistic form.",
+			"care_instructions": "Follow specific care instructions for the particular species of Bonsai Tree you have.",
+			"categories": ["House Plants"],
+			"size": "Small",
+			"price": 34.99
+		},
+		{
+			"id": "7",
+			"plant_name": "Succulent Assortment",
+			"image_link": "https://www.succulentlyurban.com/wp-content/uploads/2015/05/Succulent-arrang-0433-e1431957520961.jpg",
+			"description": "The Succulent Assortment includes a variety of small succulent plants with different shapes, colors, and textures.",
+			"care_instructions": "Provide bright, indirect light and water the plants sparingly, allowing the soil to dry between watering.",
+			"categories": ["House Plants", "Succulents"],
+			"size": "Small",
+			"price": 19.99
+		},
+		{
+			"id": "8",
+			"plant_name": "Terrarium Kit",
+			"image_link": "https://mymodernmet.com/wp/wp-content/uploads/2020/09/diy-terrarium-kit-2.jpg",
+			"description": "The Terrarium Kit contains all the necessary components to create your own beautiful and self-contained miniature garden.",
+			"care_instructions": "Follow the provided instructions for assembling and maintaining your terrarium.",
+			"categories": ["House Plants", "Terrariums"],
+			"size": "Medium",
+			"price": 29.99
+		},
+		{
+			"id": "9",
+			"plant_name": "Potted Herbs Set",
+			"image_link": "https://cdn.shopify.com/s/files/1/0256/5731/1314/products/IMG_3702.jpg?crop=center&height=2048&v=1679578341&width=2048",
+			"description": "The Potted Herbs Set includes a collection of commonly used culinary herbs, such as basil, rosemary, and mint.",
+			"care_instructions": "Place the herbs in a sunny location and water them regularly to keep the soil moist.",
+			"categories": ["House Plants", "Seeds"],
+			"size": "Small",
+			"price": 16.99
+		},
+		{
+			"id": "10",
+			"plant_name": "Cactus Collection",
+			"image_link": "https://store.bluediamond.gg/wp-content/uploads/158000000000008724-1.jpg",
+			"description": "The Cactus Collection features a variety of small cacti with different shapes and spination patterns.",
+			"care_instructions": "Provide bright sunlight and water the cacti sparingly, allowing the soil to dry completely between watering.",
+			"categories": ["House Plants", "Succulents"],
+			"size": "Small",
+			"price": 22.99
+		},
+		{
+			"id": "11",
+			"plant_name": "Hanging Macrame Planter",
+			"image_link": "https://m.media-amazon.com/images/I/71FqzoM7iuL._AC_SL1500_.jpg",
+			"description": "The Hanging Macrame Planter is a stylish and decorative holder for displaying your favorite trailing plants.",
+			"care_instructions": "Hang the planter in a location that provides the appropriate light and water your plants according to their needs.",
+			"categories": ["House Plants", "Accessories"],
+			"size": "Small",
+			"price": 9.99
+		},
+		{
+			"id": "12",
+			"plant_name": "Fiddle Leaf Fig",
+			"image_link": "https://cdn.shopify.com/s/files/1/0212/1030/0480/articles/7d6a85e520d8df826a72a02bc6452f8e30b41898_830x.jpg?v=1563407810",
+			"description": "Fiddle Leaf Fig is a trendy houseplant with large, violin-shaped leaves that add a touch of elegance to any space.",
+			"care_instructions": "Place the plant in bright, indirect light and water it when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Large",
+			"price": 32.99
+		},
+		{
+			"id": "13",
+			"plant_name": "Spider Plant",
+			"image_link": "https://t4.ftcdn.net/jpg/02/69/03/29/240_F_269032914_TeqaTxKkDQSoxkM9MVQzbHedDHrvtC8D.jpg",
+			"description": "Spider Plant, or Chlorophytum comosum, is a popular houseplant with long, arching leaves and small white flowers.",
+			"care_instructions": "Spider plants prefer bright, indirect light and regular watering to keep the soil evenly moist.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 11.99
+		},
+		{
+			"id": "14",
+			"plant_name": "Bird of Paradise",
+			"image_link": "https://d3gkbidvk2xej.cloudfront.net/images/products/v2/2b6d217c-a0d6-4172-975c-453ab3df9230/s/bird-of-paradise-white-mid-century-ceramic-light-wood-stand.jpeg?version=1608582123.33990019800&fm=webp&w=898&h=1197&fit=crop",
+			"description": "Bird of Paradise, or Strelitzia reginae, is a tropical plant known for its vibrant orange and blue flowers that resemble a bird in flight.",
+			"care_instructions": "Place the plant in a location with bright, indirect light and water it regularly to keep the soil evenly moist.",
+			"categories": ["House Plants"],
+			"size": "Large",
+			"price": 28.99
+		},
+		{
+			"id": "15",
+			"plant_name": "Rubber Tree",
+			"image_link": "https://images.squarespace-cdn.com/content/v1/5a206c4bdc2b4affa2b76f82/ec715d53-9ad6-4233-aeba-6579d03adac7/Shop+the+Rubber+Tree+and+Rubber+Plant+Ficus+Decora+from+Leon+and+George?format=1500w",
+			"description": "Rubber Tree, or Ficus elastica, is a popular indoor tree with large, glossy leaves and a strong, upright growth habit.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Large",
+			"price": 24.99
+		},
+		{
+			"id": "16",
+			"plant_name": "Succulent Arrangement",
+			"image_link": "https://lawnlove.com/blog/wp-content/uploads/2021/12/rsz_1succulents-gb4258b794_1280.jpg",
+			"description": "The Succulent Arrangement features a variety of succulent plants arranged in an aesthetically pleasing display.",
+			"care_instructions": "Place the arrangement in a location with bright, indirect light and water it sparingly.",
+			"categories": ["House Plants", "Succulents"],
+			"size": "Small",
+			"price": 18.99
+		},
+		{
+			"id": "17",
+			"plant_name": "English Ivy",
+			"image_link": "https://balconygardenweb.b-cdn.net/wp-content/uploads/2020/09/english-ivy1.jpg",
+			"description": "English Ivy, or Hedera helix, is a trailing vine with small, lush green leaves that are often used to create a natural and cascading effect.",
+			"care_instructions": "English Ivy prefers bright, indirect light and consistently moist soil.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 9.99
+		},
+		{
+			"id": "18",
+			"plant_name": "Money Tree",
+			"image_link": "https://balconygardenweb.b-cdn.net/wp-content/uploads/2021/02/pothos.jpg",
+			"description": "Money Tree, or Pachira aquatica, is a popular houseplant with braided trunks and thick, glossy leaves.",
+			"care_instructions": "Place the plant in bright, indirect light and water it when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 16.99
+		},
+		{
+			"id": "19",
+			"plant_name": "String of Pearls",
+			"image_link": "https://cdn-eflke.nitrocdn.com/ZeIxUHBKgPenxSfQIafxPEVEQQhlZwSo/assets/images/optimized/rev-7542587/wp-content/uploads/2015/01/Senecio-rowlyeanus-35-copy-600x600.webp",
+			"description": "String of Pearls, or Senecio rowleyanus, is a trailing succulent with small, round leaves that resemble a string of beads.",
+			"care_instructions": "Provide bright, indirect light and water the plant sparingly, allowing the soil to dry between watering.",
+			"categories": ["House Plants", "Succulents"],
+			"size": "Small",
+			"price": 14.99
+		},
+		{
+			"id": "20",
+			"plant_name": "Lavender",
+			"image_link": "https://cdn2.stylecraze.com/wp-content/uploads/2020/11/Lavender-Oil-For-Beautiful-Thick-Hair.jpg.webp",
+			"description": "Lavender is a fragrant herb with beautiful purple flowers, known for its calming aroma and culinary uses.",
+			"care_instructions": "Place the plant in a sunny location and water it sparingly, allowing the soil to dry between watering.",
+			"categories": ["House Plants", "Seeds"],
+			"size": "Small",
+			"price": 7.99
+		},
+		{
+			"id": "21",
+			"plant_name": "African Violet",
+			"image_link": "https://myplantin.com/_next/image?url=https%3A%2F%2Fstrapi.myplantin.com%2Flarge_main_ab985479-25cc-462b-8007-10f688d5a221.webp&w=1200&q=75",
+			"description": "African Violet, or Saintpaulia, is a popular flowering plant with fuzzy leaves and delicate flowers in various shades of purple, pink, and white.",
+			"care_instructions": "African Violets thrive in bright, indirect light and prefer to be watered from the bottom.",
+			"categories": ["House Plants"],
+			"size": "Small",
+			"price": 10.99
+		},
+		{
+			"id": "22",
+			"plant_name": "Bamboo Palm",
+			"image_link": "https://cdn10.bigcommerce.com/s-3q3m3ghk/products/306/images/288/bamboo_palm_2__30646.1453132474.386.513.jpg?c=2",
+			"description": "Bamboo Palm, or Chamaedorea seifrizii, is a graceful palm with feathery, arching fronds that add a tropical touch to any space.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Large",
+			"price": 22.99
+		},
+		{
+			"id": "23",
+			"plant_name": "Pilea Peperomioides",
+			"image_link": "https://images.pexels.com/photos/4207783/pexels-photo-4207783.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+			"description": "Pilea Peperomioides, also known as the Chinese Money Plant, is a trendy houseplant with round, pancake-shaped leaves.",
+			"care_instructions": "Place the plant in bright, indirect light and water it when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Small",
+			"price": 13.99
+		},
+		{
+			"id": "24",
+			"plant_name": "Orchid",
+			"image_link": "https://cdn1.1800flowers.com/wcsstore/Flowers/images/catalog/18436punx.jpg",
+			"description": "Orchids are elegant flowering plants that come in a wide range of colors and patterns, known for their exotic beauty.",
+			"care_instructions": "Provide bright, indirect light and water the plant sparingly, allowing the potting mix to dry between watering.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 19.99
+		},
+		{
+			"id": "25",
+			"plant_name": "ZZ Plant",
+			"image_link": "https://cdn.shopify.com/s/files/1/0174/7796/products/8D2A2069_2048x2048.jpg?v=1595400475",
+			"description": "ZZ Plant, or Zamioculcas zamiifolia, is a popular low-maintenance houseplant with glossy, dark green leaves that add a touch of elegance to any space.",
+			"care_instructions": "ZZ plants thrive in low to bright indirect light and require water only when the soil is completely dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 17.99
+		},
+		{
+			"id": "26",
+			"plant_name": "Peace Lily",
+			"image_link": "https://cdn.shopify.com/s/files/1/0781/4423/products/bloomthis-plants-peace-lily-1080x1080-08_800x.jpg?v=1656505097",
+			"description": "Peace Lily, or Spathiphyllum, is a classic houseplant with dark green leaves and elegant white flowers that symbolize peace and tranquility.",
+			"care_instructions": "Place the plant in a location with bright, indirect light and water it when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 15.99
+		},
+		{
+			"id": "27",
+			"plant_name": "Monstera Deliciosa",
+			"image_link": "https://www.plantvine.com/plants/Medium-Monstera-Del.jpg",
+			"description": "Monstera Deliciosa, also known as the Swiss Cheese Plant, is a popular tropical plant with large, fenestrated leaves that create a dramatic statement.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Large",
+			"price": 34.99
+		},
+		{
+			"id": "28",
+			"plant_name": "Philodendron",
+			"image_link": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1311603221-612x612-1652287877.jpg?resize=1200:*",
+			"description": "Philodendron is a versatile and easy-to-care-for houseplant with heart-shaped leaves that come in various shades of green.",
+			"care_instructions": "Philodendrons thrive in bright, indirect light and prefer to be watered when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 12.99
+		},
+		{
+			"id": "29",
+			"plant_name": "Snake Plant",
+			"image_link": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_snake-plant-laurentii_small_hyde_olive.jpg?v=1660855943",
+			"description": "Snake Plant, or Sansevieria, is a hardy and low-maintenance plant with upright, sword-shaped leaves that come in various patterns and colors.",
+			"care_instructions": "Snake plants can tolerate a wide range of light conditions and prefer to be watered when the soil is completely dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 9.99
+		},
+		{
+			"id": "30",
+			"plant_name": "Pothos",
+			"image_link": "https://bloomscape.com/cdn-cgi/image/quality=75,fit=scale-down,height=1536,width=1280,metadata=copyright,format=webp/wp-content/uploads/2022/10/bloomscape_xs-pothos-collection_white-scaled.jpg",
+			"description": "Pothos, or Epipremnum aureum, is a trailing vine with heart-shaped leaves that come in various shades of green and variegated patterns.",
+			"care_instructions": "Pothos thrive in bright, indirect light and prefer to be watered when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 8.99
+		},
+		{
+			"id": "31",
+			"plant_name": "Aloe Vera",
+			"image_link": "https://www.treehugger.com/thmb/KiDk5aP3JbVaHOG74gd1IDHN1-s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aloe-vera-gel-should-be-your-new-favorite-moisturizer-4858686_03-872e0baa93fa4e8d9df9c0eb7fe1551e.JPG",
+			"description": "Aloe Vera is a succulent plant known for its healing properties, with thick, fleshy leaves that contain a gel-like substance.",
+			"care_instructions": "Place the plant in a sunny location and water it sparingly, allowing the soil to dry between watering.",
+			"categories": ["House Plants", "Succulents"],
+			"size": "Small",
+			"price": 6.99
+		},
+		{
+			"id": "32",
+			"plant_name": "Fiddle Leaf Fig",
+			"image_link": "https://example.com/images/fiddle_leaf_fig.jpg",
+			"description": "Fiddle Leaf Fig, or Ficus lyrata, is a popular houseplant with large, violin-shaped leaves that add a touch of elegance to any room.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Large",
+			"price": 31.99
+		},
+		{
+			"id": "33",
+			"plant_name": "Bonsai Tree",
+			"image_link": "https://example.com/images/bonsai_tree.jpg",
+			"description": "Bonsai Tree is a miniature tree that is carefully pruned and shaped to create a living work of art.",
+			"care_instructions": "Bonsai trees require specific care, including regular pruning, watering, and exposure to sunlight.",
+			"categories": ["House Plants"],
+			"size": "Small",
+			"price": 23.99
+		},
+		{
+			"id": "34",
+			"plant_name": "Cactus Collection",
+			"image_link": "https://example.com/images/cactus_collection.jpg",
+			"description": "The Cactus Collection features a variety of cacti in different shapes and sizes, perfect for adding a touch of desert beauty to your space.",
+			"care_instructions": "Cacti prefer bright, indirect light and require minimal watering, allowing the soil to dry out completely between watering.",
+			"categories": ["House Plants", "Succulents"],
+			"size": "Small",
+			"price": 16.99
+		},
+		{
+			"id": "35",
+			"plant_name": "Rosemary",
+			"image_link": "https://example.com/images/rosemary.jpg",
+			"description": "Rosemary is a fragrant herb with needle-like leaves and delicate blue flowers, known for its culinary uses and aromatic properties.",
+			"care_instructions": "Place the plant in a sunny location and water it sparingly, allowing the soil to dry between watering.",
+			"categories": ["House Plants", "Seeds"],
+			"size": "Small",
+			"price": 7.99
+		},
+		{
+			"id": "36",
+			"plant_name": "Schefflera",
+			"image_link": "https://example.com/images/schefflera.jpg",
+			"description": "Schefflera, or Umbrella Tree, is a tropical plant with glossy, palmate leaves that radiate from a central stalk, creating an umbrella-like appearance.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Large",
+			"price": 25.99
+		},
+		{
+			"id": "37",
+			"plant_name": "Jade Plant",
+			"image_link": "https://example.com/images/jade_plant.jpg",
+			"description": "Jade Plant, or Crassula ovata, is a succulent with fleshy, oval-shaped leaves that are often green but can develop a red tint under certain conditions.",
+			"care_instructions": "Jade plants prefer bright, indirect light and require water only when the soil is completely dry.",
+			"categories": ["House Plants", "Succulents"],
+			"size": "Medium",
+			"price": 13.99
+		},
+		{
+			"id": "38",
+			"plant_name": "Fern Collection",
+			"image_link": "https://example.com/images/fern_collection.jpg",
+			"description": "The Fern Collection features a variety of ferns in different shapes and sizes, perfect for adding a touch of lush greenery to your space.",
+			"care_instructions": "Ferns prefer bright, indirect light and consistently moist soil, but avoid overwatering to prevent root rot.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 20.99
+		},
+		{
+			"id": "39",
+			"plant_name": "Dieffenbachia",
+			"image_link": "https://example.com/images/dieffenbachia.jpg",
+			"description": "Dieffenbachia, also known as Dumb Cane, is a popular houseplant with large, patterned leaves that add a tropical touch to any space.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 14.99
+		},
+		{
+			"id": "40",
+			"plant_name": "Begonia",
+			"image_link": "https://example.com/images/begonia.jpg",
+			"description": "Begonia is a beautiful flowering plant with vibrant and colorful blooms that can brighten up any indoor or outdoor space.",
+			"care_instructions": "Begonias thrive in bright, indirect light and prefer to be watered when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Small",
+			"price": 9.99
+		},
+		{
+			"id": "41",
+			"plant_name": "Palm Tree",
+			"image_link": "https://example.com/images/palm_tree.jpg",
+			"description": "Palm Tree is a classic tropical plant with a tall, slender trunk and large, fan-shaped leaves that create a relaxing and tropical atmosphere.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels dry.",
+			"categories": ["House Plants"],
+			"size": "Large",
+			"price": 29.99
+		},
+		{
+			"id": "42",
+			"plant_name": "Air Plant",
+			"image_link": "https://example.com/images/air_plant.jpg",
+			"description": "Air Plant, or Tillandsia, is an epiphytic plant that doesn't require soil to grow, making it a unique and low-maintenance houseplant.",
+			"care_instructions": "Mist or soak the plant in water once a week and provide bright, indirect light.",
+			"categories": ["House Plants"],
+			"size": "Small",
+			"price": 7.99
+		},
+		{
+			"id": "43",
+			"plant_name": "Alocasia",
+			"image_link": "https://example.com/images/alocasia.jpg",
+			"description": "Alocasia, also known as Elephant Ear, is a stunning tropical plant with large, arrowhead-shaped leaves that have intricate patterns and colors.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels slightly dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 16.99
+		},
+		{
+			"id": "44",
+			"plant_name": "English Ivy",
+			"image_link": "https://example.com/images/english_ivy.jpg",
+			"description": "English Ivy is a popular trailing plant with small, lobed leaves that can create an elegant and cascading effect in your space.",
+			"care_instructions": "English Ivy thrives in bright, indirect light and prefers to be watered when the top inch of soil feels slightly dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 11.99
+		},
+		{
+			"id": "45",
+			"plant_name": "Spider Plant",
+			"image_link": "https://example.com/images/spider_plant.jpg",
+			"description": "Spider Plant, or Chlorophytum comosum, is a classic houseplant with long, arching leaves that are usually green with white stripes.",
+			"care_instructions": "Spider plants prefer bright, indirect light and like to be watered when the top inch of soil feels slightly dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 10.99
+		},
+		{
+			"id": "46",
+			"plant_name": "Calathea",
+			"image_link": "https://example.com/images/calathea.jpg",
+			"description": "Calathea is a genus of plants with stunning and colorful foliage patterns, known for their vibrant and decorative leaves.",
+			"care_instructions": "Calatheas prefer bright, indirect light and consistently moist soil, but avoid overwatering to prevent root rot.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 18.99
+		},
+		{
+			"id": "47",
+			"plant_name": "Croton",
+			"image_link": "https://example.com/images/croton.jpg",
+			"description": "Croton is a tropical plant with colorful, variegated leaves that come in a wide range of shapes and patterns.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels slightly dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 12.99
+		},
+		{
+			"id": "48",
+			"plant_name": "Rubber Plant",
+			"image_link": "https://example.com/images/rubber_plant.jpg",
+			"description": "Rubber Plant, or Ficus elastica, is a popular houseplant with glossy, dark green leaves that add a touch of elegance to any space.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels slightly dry.",
+			"categories": ["House Plants"],
+			"size": "Medium",
+			"price": 15.99
+		},
+		{
+			"id": "49",
+			"plant_name": "Cyclamen",
+			"image_link": "https://example.com/images/cyclamen.jpg",
+			"description": "Cyclamen is a charming flowering plant with beautiful, upswept petals and attractive marbled leaves.",
+			"care_instructions": "Cyclamen prefer bright, indirect light and like to be watered when the top inch of soil feels slightly dry.",
+			"categories": ["House Plants"],
+			"size": "Small",
+			"price": 11.99
+		},
+		{
+			"id": "50",
+			"plant_name": "Bird of Paradise",
+			"image_link": "https://example.com/images/bird_of_paradise.jpg",
+			"description": "Bird of Paradise, or Strelitzia reginae, is a stunning tropical plant with vibrant orange and blue flowers that resemble the shape of a bird.",
+			"care_instructions": "Provide bright, indirect light and water the plant when the top inch of soil feels slightly dry.",
+			"categories": ["House Plants"],
+			"size": "Large",
+			"price": 28.99
+		}
+	]
+}
