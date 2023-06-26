@@ -501,5 +501,6 @@
 			"price": 28.99
 		}
 	],
-	"orders": []
+	"orders": [],
+	"wishlist": []
 }
