@@ -501,6 +501,26 @@
 			"price": 28.99
 		}
 	],
+	"coupons": [
+		{
+			"id": 1,
+			"name": "Yevhen",
+			"discount": 20,
+			"count": 5
+		},
+		{
+			"id": 2,
+			"name": "Vova",
+			"discount": 30,
+			"count": 3
+		},
+		{
+			"id": 3,
+			"name": "Plant",
+			"discount": 10,
+			"count": 2
+		}
+	],
 	"orders": [],
 	"wishlist": []
 }
